@@ -1,8 +1,4 @@
-# master_thesis
-
-ぼくの修論ものがたり
-
-## 僕のLaTeXの環境
+## 環境
 
 - OS: Ubuntu:18.04.4 LTS
 - Editor: VS code
