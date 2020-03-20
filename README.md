@@ -34,7 +34,7 @@ jbookの仕様なのか，自分のもともとの環境ではコンパイルエ
 
 // ---Use master thesis LaTeX(upLaTeX) without bibtex---
 
-// ---Use master thesis LaTeX(upLaTeX) without bibtex---
+// ---Use master thesis LaTeX(upLaTeX) with bibtex---
 "latex-workshop.latex.tools": [
     {
         "command": "ptex2pdf",
@@ -67,5 +67,5 @@ jbookの仕様なのか，自分のもともとの環境ではコンパイルエ
     }
 ],
 
-// ---Use master thesis LaTeX(upLaTeX) without bibtex---
+// ---Use master thesis LaTeX(upLaTeX) with bibtex---
 ```
